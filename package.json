@@ -1,0 +1,25 @@
+{
+  "name": "amigo-secreto-nextjs",
+  "version": "1.0.0",
+  "description": "Simples simples sistema para sortear o amigo secreto utilizando NextJs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dioneijd/amigo-secreto-nextjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dioneijd/amigo-secreto-nextjs/issues"
+  },
+  "homepage": "https://github.com/dioneijd/amigo-secreto-nextjs#readme",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
